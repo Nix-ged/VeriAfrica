@@ -137,3 +137,12 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+# Environment variables
+.env
+.env.local
+
+# Windsurf exports
+.windsurf/
+
+# AI keys
+*.key
